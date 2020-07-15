@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1062144721275",
+    "firebase_url": "https://chatapp-eb4d8.firebaseio.com",
+    "project_id": "chatapp-eb4d8",
+    "storage_bucket": "chatapp-eb4d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062144721275:android:43560c68e5bba7228b7dde",
+        "android_client_info": {
+          "package_name": "com.example.dotchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062144721275-0emd8m0c8edijfio7r0b3mp9kap5ha8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjlz9UojXD4vbjlaGHH9rqjAiwZgJwn50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062144721275-0emd8m0c8edijfio7r0b3mp9kap5ha8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
